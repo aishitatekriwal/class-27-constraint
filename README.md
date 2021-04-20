@@ -1,1 +1,6 @@
-# class-27-constraint
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
+class 26 
+hi im aishita
+ok
+i dont like gitbash
